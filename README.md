@@ -47,11 +47,9 @@
 
   ## || telemetry_data ||
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGFNunes&show_icons=true&include_all_commits=true&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGFNunes&layout=compact&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
-</div>
 
 
 <div align="center">
