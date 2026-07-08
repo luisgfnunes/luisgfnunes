@@ -47,8 +47,9 @@
 
   ## || telemetry_data ||
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuisGFNunes/LuisGFNunes/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 
 
