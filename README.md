@@ -45,14 +45,6 @@
 
 <div align="center">
 
-  ## || telemetry_data ||
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LuisGFNunes/LuisGFNunes/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-
-
 <div align="center">
 
 ![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
