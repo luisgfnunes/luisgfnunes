@@ -41,7 +41,7 @@
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
 | [EdTech](https://github.com/pedrohpsantos/EdTech.git) | Web repository developed for university laboratories and scientific initiation groups. | 🟡 In Progress |
-| [The-Unopened-Escape](https://github.com/AGoretti/The-Unopened-Escape.git) | A cooperative and asymmetrical psychological horror minigame, developed for Virtual Reality headsets (Meta Quest). | 🟡 In Progress |
+| [CherryM-Desktop](https://github.com/LuisGFNunes/CherryM-Desktop.git) | A lightweight, high-performance YouTube Music desktop client with a Midnight Cherry aesthetic. | 🟡 In Progress |
 
 <div align="center">
 
