@@ -38,10 +38,11 @@
 
 *Projects that have been seized and are in custody:*
 
-| Projeto | Descrição | Status |
+| Project | Description | Status |
 | :--- | :--- | :--- |
 | [EdTech](https://github.com/pedrohpsantos/EdTech.git) | Web repository developed for university laboratories and scientific initiation groups. | 🟡 In Progress |
 | [CherryM-Desktop](https://github.com/LuisGFNunes/CherryM-Desktop.git) | A lightweight, high-performance YouTube Music desktop client with a Midnight Cherry aesthetic. | 🟡 In Progress |
+| [Dotfiles](https://github.com/LuisGFNunes/dotfiles) | Personal dotfiles repository for Fedora Linux | 🔴 Only for my personal backup |
 
 <div align="center">
 
