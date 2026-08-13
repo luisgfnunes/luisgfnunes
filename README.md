@@ -9,7 +9,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisgfnunes)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgfnunes)
 [![Portfólio](https://img.shields.io/badge/BEBOP_PORTFOLIO-BD93F9?style=for-the-badge&logo=rocket&logoColor=white)](https://seu-portfolio.com)
 [![Email](https://img.shields.io/badge/BEBOP_MAIL-FF5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreiranunesluisgustavo447@gmail.com)
 
