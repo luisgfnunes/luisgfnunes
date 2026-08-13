@@ -53,8 +53,12 @@
 ## 📊 🌌 Computador de Bordo da Bebop
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luisgfnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisgfnunes&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisgfnunes&theme=github_dark" width="90%" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisgfnunes&theme=github_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisgfnunes&theme=github_dark" height="180em" />
 
 </div>
 
