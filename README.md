@@ -1,65 +1,65 @@
 <div align="center">
 
-![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
+# 🎷 𝕊𝔼𝔼 𝕐𝕆𝕌 𝕊ℙ𝔸ℂ𝔼 ℂ𝕆𝕎𝔹𝕆𝕐... 🚀
+### 🌌 `CALLSIGN: Luis G. Ferreira N.` | Bounty Hunter & Software Engineering Student @ UnB
 
-# || luis_g_f_nunes_log ||
-### `> STATUS: CONNECTED TO BEEP-SERVER`
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk4bjFhNHltMm1qandzcWRrc2lydmszbDJ5cmNvb2k1OG0zc3c3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b21HPP4FAxaUU/giphy.gif" width="500" alt="Spike Spiegel Space">
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=21&center=true&lines=Whatever+happens...;happens.;Welcome+to+my+space." alt="Typing SVG"/>
-</div>
+*“Não importa o quão difícil seja o bug, basta colocar um jazz para tocar.”*
 
-![Banner](https://i.redd.it/1o0ov2v14vq71.gif)
-</div>
+---
 
-![divider](https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif)
-
-</div>
-<div align="center">
-
-  ## || cargo_manifest_(stack_overview) ||
-
-*Here are the tools that make up my navigation system:*
-
-| | |
-| :--- | :---
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Backend** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Database** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
-*Currently undergoing calibration/learning for the frontend.*
-
-![divider](https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif)
-
-<div align="center">
-
-  ## || active_rewards_(projects) ||
-
-*Projects that have been seized and are in custody:*
-
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| [EdTech](https://github.com/pedrohpsantos/EdTech.git) | Web repository developed for university laboratories and scientific initiation groups. | 🟡 In Progress |
-| [CherryM-Desktop](https://github.com/LuisGFNunes/CherryM-Desktop.git) | A lightweight, high-performance YouTube Music desktop client with a Midnight Cherry aesthetic. | 🟡 In Progress |
-| [Dotfiles](https://github.com/LuisGFNunes/dotfiles) | Personal dotfiles repository for Fedora Linux | 🔴 Only for my personal backup |
-
-<div align="center">
-
-<div align="center">
-
-![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
-
-  ## || communication ||
-
-*There's no point in trying to call me from space; the reception is terrible.*
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis%E5%85%89-ferreira-29a084416/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ferreiranunesluisgustavo447@gmail.com)
-![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
-
-*“See you, space cowboy...”*
-
-![Banner3](https://i.pinimg.com/originals/7d/b1/b7/7db1b761a3cbce2abefbd5b8c5e97c5b.gif)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis光-ferreira-29a084416)
+[![Portfólio](https://img.shields.io/badge/BEBOP_PORTFOLIO-BD93F9?style=for-the-badge&logo=rocket&logoColor=white)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/BEBOP_MAIL-FF5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreiranunesluisgustavo447@gmail.com)
 
 </div>
+
+---
+
+## 📻 🛸 O Arsenal da Nave (Tech Stack)
+
+### 🔫 Armas Principais (Linguagens Domínio)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🎯 Alvos em Mira (Atualmente Aprendendo)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📦 Equipamento de Bordo (Infra & OS)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📑 🔍 Registro do Caçador de Recompensas (Sobre Mim)
+
+```yaml
+[ISSP_DATABASE_SEARCH_RESULT]
+> Candidato: Luis Gustavo Ferreira Nunes
+> Origem: Graduando em Engenharia de Software — UnB (Universidade de Brasília) 🏫
+> Sistema Operacional: Fedora Linux 44 🐧
+> Recompensa Atual: Buscando aprender e amadurecer em projetos desafiadores e de alta performance.
+```
+
+---
+
+## 📊 🌌 Computador de Bordo da Bebop
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luisgfnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgfnunes&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎷 💭 Jazz & Code
+
+> *"Eu não estou indo lá para morrer. Estou indo para saber se estou realmente programando."*
