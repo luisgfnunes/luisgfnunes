@@ -3,8 +3,6 @@
 # 🎷 𝕊𝔼𝔼 𝕐𝕆𝕌 𝕊ℙ𝔸ℂ𝔼 ℂ𝕆𝕎𝔹𝕆𝕐... 🚀
 ### 🌌 `CALLSIGN: Luis G. Ferreira N.` | Bounty Hunter & Software Engineering Student @ UnB
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk4bjFhNHltMm1qandzcWRrc2lydmszbDJ5cmNvb2k1OG0zc3c3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b21HPP4FAxaUU/giphy.gif" width="500" alt="Spike Spiegel Space">
-
 *“Não importa o quão difícil seja o bug, basta colocar um jazz para tocar.”*
 
 ---
