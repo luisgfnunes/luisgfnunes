@@ -60,3 +60,6 @@
 
 </div>
 
+<div align="center">
+ ------ "Whatever happens, happens" ------
+
