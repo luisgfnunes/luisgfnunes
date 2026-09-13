@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🎷 𝕊𝔼𝔼 𝕐𝕆𝕌 𝕊ℙ𝔸ℂ𝔼 ℂ𝕆𝕎𝔹𝕆𝕐... 🚀
-### 🌌 `CALLSIGN: Luis G. Ferreira N.` | Bounty Hunter & Software Engineering Student @ UnB
+### 🌌 `Luis G. Ferreira N.` | Software Engineering Student @ UnB
 
-*“Não importa o quão difícil seja o bug, basta colocar um jazz para tocar.”*
+*“Um olho vê o passado (o log de erro), o outro vê o presente (o código quebrando agora). E eu acredito que nenhum dos dois compila.”*
 
 ---
 
