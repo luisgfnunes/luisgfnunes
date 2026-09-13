@@ -15,40 +15,40 @@
 
 ---
 
-## 📻 🛸 O Arsenal da Nave (Tech Stack)
+## > ----- O Arsenal da Nave (Tech Stack) ----- <
 
-### 🔫 Armas Principais (Linguagens Domínio)
+### | - - Linguagens Favoritas - - |
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🎯 Alvos em Mira (Atualmente Aprendendo)
+### | - - Atualmente Aprendendo - - |
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📦 Equipamento de Bordo (Infra & OS)
+### | - - Infra & OS - - |
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📑 🔍 Registro do Caçador de Recompensas (Sobre Mim)
+## > ------ Registro Sobre Mim ----- <
 
 ```yaml
 [ISSP_DATABASE_SEARCH_RESULT]
 > Candidato: Luis Gustavo Ferreira Nunes
 > Origem: Graduando em Engenharia de Software — UnB (Universidade de Brasília) 🏫
 > Sistema Operacional: Arch Linux 🐧
-> Recompensa Atual: Buscando aprender e amadurecer em projetos desafiadores e de alta performance.
+> Foco Atual: Buscando aprender e amadurecer em projetos desafiadores e de alta performance.
 ```
 
 ---
 
-## 📊 🌌 Computador de Bordo da Bebop
+## > ----- Computador de Bordo da Bebop ----- <
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisgfnunes&theme=github_dark" width="90%" />
