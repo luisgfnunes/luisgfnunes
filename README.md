@@ -15,7 +15,7 @@
 
 ---
 
-## > ----- O Arsenal da Nave (Tech Stack) ----- <
+## > ------ Meu Tech Stack ------ <
 
 ### | - - Linguagens Favoritas - - |
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +48,7 @@
 
 ---
 
-## > ----- Computador de Bordo da Bebop ----- <
+## > ------ Computador de Bordo da Bebop ------ <
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisgfnunes&theme=github_dark" width="90%" />
