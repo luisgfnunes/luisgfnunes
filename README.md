@@ -5,8 +5,8 @@
 ### **Luis Gustavo Ferreira Nunes**
 *Software Engineering Student @ UnB (Universidade de Brasília)*
 
-*“Um olho vê o passado (o log de erro), o outro vê o presente (o código quebrando agora).*  
-*E eu acredito que nenhum dos dois compila.”*
+*“One eye sees the past (the error log), the other sees the present (the code crashing right now).*  
+*And I believe neither of them compiles.”*
 
 <br/>
 
@@ -18,38 +18,37 @@
 
 ---
 
-##  `[ISSP_DATABASE_SEARCH_RESULT]` — Registro do Caçador
+##  `[ISSP_DATABASE_SEARCH_RESULT]` — Hunter's Registry
 
 ```yaml
 Target / Developer : Luis Gustavo Ferreira Nunes
-Current Location   : Brasília, DF - Brasil 
-Affiliation        : Engenharia de Software — UnB
+Current Location   : Brasília, District Federal - Brazil
+Affiliation        : Software Engineering — UnB
 Primary System     : Arch Linux 
-Current Mission    : Projetos desafiadores de alta performance, desenvolvimento de software e sistemas
-Status             : Buscando aprendizado contínuo e novas oportunidades na área
-
+Current Mission    : Challenging, high-performance projects; software and systems development
+Status             : Seeking continuous learning and new opportunities in the field
 ```
 
 ---
 
-## Tech Stack & Sistemas da Bebop
+## Bebop's Tech Stack & Systems
 
-### Linguagens Principais
+### Main Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Atualmente Aprendendo
+### Currently Learning
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Infraestrutura & Ambientes
+### Infrastructure & Environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 ---
 
-## Computador de Bordo da Bebop (Telemetria)
+## Bebop Onboard Computer (Telemetry)
 
  <div align="center">
 
