@@ -24,7 +24,7 @@
 Target / Developer : Luis Gustavo Ferreira Nunes
 Current Location   : Brasília, District Federal - Brazil
 Affiliation        : Software Engineering — UnB
-Primary System     : Arch Linux 
+Primary System     : NixOS 
 Current Mission    : Challenging, high-performance projects; software and systems development
 Status             : Seeking continuous learning and new opportunities in the field
 ```
