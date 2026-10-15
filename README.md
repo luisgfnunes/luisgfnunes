@@ -9,20 +9,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgfnunes)
 [![Email](https://img.shields.io/badge/BEBOP_MAIL-FF5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreiranunesluisgustavo447@gmail.com) 
 
+---
+## About Me
+
+- 🎓 **Academic Journey:** Software Engineering student at the **University of Brasília (UnB)**, focused on computer architecture, low-level systems, data structures, and compilers.
+- 🎮 **Game Development & Design:** Currently building my first independent 2D games with **Godot Engine**, exploring everything from core gameplay mechanics and system architecture to original pixel art and soundtrack composition.
+- 🐧 **Environment & Tools:** Daily Linux power-user (NixOS/Arch), C/C++ enthusiast, and advocate for modular, high-performance software engineering.
 
 ---
 
 ##  My Registry
-
 ```yaml
 Developer          : Luis Gustavo Ferreira Nunes
-Current Location   : Brasília, District Federal - Brazil
-Affiliation        : Software Engineering — UnB
-Primary System     : NixOS 
-Current Mission    : Challenging, high-performance projects; software and systems development
-Status             : Seeking continuous learning and new opportunities in the field
+Current Location   : Brasília, DF — Brazil
+Affiliation        : Software Engineering — Universidade de Brasília (UnB)
+Primary System     : NixOS
+Current Mission    : Building low-level/high-performance software & exploring Game Architecture
+GameDev Focus      : 2D Mechanics, GDScript, Pixel Art & Original Soundtracks
+Status             : Seeking continuous learning, academic growth, and tech opportunities
 ```
-
 ---
 
 ## Tech Stack & Systems
@@ -33,10 +38,11 @@ Status             : Seeking continuous learning and new opportunities in the fi
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Currently Learning
+### Currently Learning & Creative Tools
+![Godot Engine](https://img.shields.io/badge/Godot_Engine_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL_Studio-383838?style=for-the-badge&logo=flstudio&logoColor=FF8800)
 
 ### Infrastructure & Environments
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
