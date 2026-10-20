@@ -2,31 +2,30 @@
 ---
 *Software Engineering Student @ UnB (Universidade de Brasília)*
 
-*“One eye sees the past (the error log), the other sees the present (the code crashing right now).*  
-*And I believe neither of them compiles.”*
+*“I wish I could rewind time... mostly to fix that one segmentation fault before the commit.”*  
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgfnunes)
-[![Email](https://img.shields.io/badge/BEBOP_MAIL-FF5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreiranunesluisgustavo447@gmail.com) 
+[![Email](https://img.shields.io/badge/ARCADIA_BAY_MAIL-FF5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreiranunesluisgustavo447@gmail.com) 
 
 ---
 ## About Me
 
 - 🎓 **Academic Journey:** Software Engineering student at the **University of Brasília (UnB)**, focused on computer architecture, low-level systems, data structures, and compilers.
 - 🎮 **Game Development & Design:** Currently building my first independent 2D games with **Godot Engine**, exploring everything from core gameplay mechanics and system architecture to original pixel art and soundtrack composition.
-- 🐧 **Environment & Tools:** Daily Linux power-user (NixOS/Arch), C/C++ enthusiast, and advocate for modular, high-performance software engineering.
+- 🐧 **Environment & Tools:** Daily Linux power-user (NixOS/Arch/Fedora), C/C++ enthusiast, and advocate for modular, high-performance software engineering.
 
 ---
 
-##  My Registry
+## 📷 Blackwell Academy Student Record
 ```yaml
 Developer          : Luis Gustavo Ferreira Nunes
 Current Location   : Brasília, DF — Brazil
 Affiliation        : Software Engineering — Universidade de Brasília (UnB)
-Primary System     : NixOS
-Current Mission    : Building low-level/high-performance software & exploring Game Architecture
+Primary System     : Fedora
+Current Mission    : Rewinding code, building low-level systems & exploring Game Architecture
 GameDev Focus      : 2D Mechanics, GDScript, Pixel Art & Original Soundtracks
-Status             : Seeking continuous learning, academic growth, and tech opportunities
+Status             : Seeking continuous learning, capturing moments, and academic growth
 ```
 ---
 
@@ -54,22 +53,18 @@ Status             : Seeking continuous learning, academic growth, and tech oppo
 
  <div align="center">
 
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisgfnunes&theme=github_dark" width="90%" />
 
-
   <br/><br/>
-
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisgfnunes&theme=github_dark" height="180em" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisgfnunes&theme=github_dark" height="180em" />
 
-
 </div> 
 
 <div align="center">
 
-### --- *“Whatever happens, happens.”* ---
+### 🦋 *“This action will have consequences...”* 🦋
 
 </div>
