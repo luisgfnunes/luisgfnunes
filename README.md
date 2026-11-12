@@ -13,7 +13,7 @@
 
 - 🎓 **Academic Journey:** Software Engineering student at the **University of Brasília (UnB)**, focused on computer architecture, low-level systems, data structures, and compilers.
 - 🎮 **Game Development & Design:** Currently building my first independent 2D games with **Godot Engine**, exploring everything from core gameplay mechanics and system architecture to original pixel art and soundtrack composition.
-- 🐧 **Environment & Tools:** Daily Linux power-user (NixOS/Arch/Fedora), C/C++ enthusiast, and advocate for modular, high-performance software engineering.
+- 🐧 **Environment & Tools:** Daily Linux power-user (systems previously used: NixOS/Arch/Fedora/Tumbleweed), C/C++ enthusiast, and advocate for modular, high-performance software engineering.
 
 ---
 
@@ -22,7 +22,7 @@
 Developer          : Luis Gustavo Ferreira Nunes
 Current Location   : Brasília, DF — Brazil
 Affiliation        : Software Engineering — Universidade de Brasília (UnB)
-Primary System     : NixOS
+Primary System     : OpenSUSE Tumbleweed
 Current Mission    : Rewinding code, building low-level systems & exploring Game Architecture
 GameDev Focus      : 2D Mechanics, GDScript, Pixel Art & Original Soundtracks
 Status             : Seeking continuous learning, capturing moments, and academic growth
