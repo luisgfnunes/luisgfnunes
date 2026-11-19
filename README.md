@@ -22,7 +22,7 @@
 Developer          : Luis Gustavo Ferreira Nunes
 Current Location   : Brasília, DF — Brazil
 Affiliation        : Software Engineering — Universidade de Brasília (UnB)
-Primary System     : Arch Linux
+Primary System     : Fedora Linux
 Current Mission    : Rewinding code, building low-level systems & exploring Game Architecture
 GameDev Focus      : 2D Mechanics, GDScript, Pixel Art & Original Soundtracks
 Status             : Seeking continuous learning, capturing moments, and academic growth
